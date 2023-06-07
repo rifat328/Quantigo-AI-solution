@@ -1,0 +1,31 @@
+{
+    "combined_objects": [
+        {
+            "class": "car",
+            "bounding_box": [
+                396,
+                3,
+                773,
+                314
+            ]
+        },
+        {
+            "class": "number",
+            "bounding_box": [
+                535,
+                158,
+                622,
+                213
+            ]
+        },
+        {
+            "class": "car",
+            "bounding_box": [
+                770,
+                0,
+                882,
+                306
+            ]
+        }
+    ]
+}

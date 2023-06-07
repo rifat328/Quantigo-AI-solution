@@ -1,0 +1,27 @@
+[
+    {
+        "dataset_name": "pos_10010.png.json",
+        "image_link": "",
+        "annotation_type": "image",
+        "annotation_objects": {
+            "vehicle": {
+                "presence": 1,
+                "bbox": [
+                    770,
+                    0,
+                    882,
+                    306
+                ]
+            }
+        },
+        "annotation_attributes": {
+            "vehicle": {
+                "Make": "Mercedes-Benz",
+                "Type": "SUV",
+                "Pose": "Rear",
+                "Model": "UN",
+                "Color": "Silver"
+            }
+        }
+    }
+]
